@@ -5,3 +5,7 @@
 ###### This is an `<h6>` header, which is the smallest
 ![Image of cute anime girl](https://wallpapercave.com/wp/wp5922165.jpg)
 
+```javascript
+const hello = "Hello World";
+
+```
