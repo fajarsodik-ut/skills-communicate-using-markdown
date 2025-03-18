@@ -9,3 +9,6 @@
 const hello = "Hello World";
 
 ```
+- [x] TURN ON GITHUB PAGES
+- [ ] Outline my portofolio
+- [ ] Have fun coding
